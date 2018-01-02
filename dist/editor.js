@@ -40,7 +40,7 @@ var ReactMediumEditor = function (_React$Component) {
   function ReactMediumEditor(props) {
     _classCallCheck(this, ReactMediumEditor);
 
-    var _this = _possibleConstructorReturn(this, Object.getPrototypeOf(ReactMediumEditor).call(this, props));
+    var _this = _possibleConstructorReturn(this, (ReactMediumEditor.__proto__ || Object.getPrototypeOf(ReactMediumEditor)).call(this, props));
 
     _this.state = {
       text: _this.props.text
